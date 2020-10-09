@@ -1,2 +1,2 @@
-# github.io-index.html
+# github.io
 Info 101
